@@ -32,7 +32,7 @@
     @yield('styles')
     <script src="https://kit.fontawesome.com/33b68c81a7.js" crossorigin="anonymous"></script>
 </head>
-<body class="container mx-auto my-10 max-w-md bg-neutral-50">
+<body class="container mx-auto my-10 max-w-sm bg-neutral-50">
 
     <nav class="flex content-center items-center justify-between mb-6">
         @yield('cta')
